@@ -24,5 +24,5 @@ If you have a suggestion that would make this better, please fork the repo and c
 Contact
 Beatrice - [BeaGolia.github](https://github.com/BeaGolia)
 
-Project Link: https://github.com/BeaGolia/Counter
+Project Link: [https://github.com/BeaGolia/Counter](https://beagolia.github.io/Counter/)
 
