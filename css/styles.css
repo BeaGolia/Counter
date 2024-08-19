@@ -31,7 +31,7 @@ main {
   width: 100vh;
   height: 100px;
 }
-. calculator button{
+.calculator button{
   cursor: pointer;
   background-image: linear-gradient(#6485e6, #9198e5);
   border: 2px solid purple;
