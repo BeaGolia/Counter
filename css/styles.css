@@ -31,13 +31,13 @@ main {
   width: 100vh;
   height: 100px;
 }
-.calculator button{
+button{
   cursor: pointer;
   background-image: linear-gradient(#6485e6, #9198e5);
   border: 2px solid purple;
   width: 40px;
 }
-.calculator button, .calculator input{
+button, input{
   height: 50px;
   font-weight: bold;
   border: 1px solid gray;
